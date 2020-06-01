@@ -1,0 +1,60 @@
+.img{
+	width:20%;
+	margin-left: 46rem;
+	margin-bottom: 3rem;
+}
+
+#input_email input[type = text]{
+	padding-left: 40px;
+}
+
+#input_email{
+	position: relative;
+}
+
+#input_email i{
+	position: absolute;
+	left: 0px;
+	top: 3px;
+	padding: 9px 20px;
+	color: #aaa;
+}
+
+#input_email input[type = text]:focus + i{
+	color: dodgerBlue;
+}
+
+#input_password input[type = password]{
+	padding-left: 40px;
+}
+
+#input_password{
+	position: relative;
+}
+
+#input_password i{
+	position: absolute;
+	left: 0px;
+	top: 3px;
+	padding: 9px 20px;
+	color: #aaa;
+}
+
+#input_password input[type = password]:focus + i{
+	color: dodgerBlue;
+}
+
+#txtbx
+{
+    height:40px;
+    font-size:14pt;
+}
+
+#login{
+	font-size: 14pt;
+}
+
+#login_button{
+	font-size: 14pt;
+}z
+
